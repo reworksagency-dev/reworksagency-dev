@@ -1,3 +1,24 @@
+# https://doodlebug.tarinagarwal.in/ #
+<div align="center">
+
+<a href="https://github.com/reworksagency-dev"><img src="https://doodlebug.tarinagarwal.in/api/card/banner?username=reworksagency-dev" alt="ReWorks Agency" width="100%"/></a>
+
+<a href="https://github.com/reworksagency-dev"><img src="https://doodlebug.tarinagarwal.in/api/card/stats?username=reworksagency-dev&show=followers" alt="GitHub stats" height="195"/></a>
+<a href="https://github.com/reworksagency-dev"><img src="https://doodlebug.tarinagarwal.in/api/card/streak?username=reworksagency-dev" alt="Streak" height="195"/></a>
+
+<a href="https://github.com/reworksagency-dev"><img src="https://doodlebug.tarinagarwal.in/api/card/langs?username=reworksagency-dev&layout=donut&langs_count=6" alt="Top languages" height="200"/></a>
+<a href="https://github.com/reworksagency-dev"><img src="https://doodlebug.tarinagarwal.in/api/card/graph?username=reworksagency-dev&days=45" alt="Activity" height="200"/></a>
+
+<a href="https://github.com/reworksagency-dev"><img src="https://doodlebug.tarinagarwal.in/api/card/trophies?username=reworksagency-dev" alt="Trophies"/></a>
+
+<a href="https://github.com/reworksagency-dev"><img src="https://doodlebug.tarinagarwal.in/api/card/activity?username=reworksagency-dev&weeks=40" alt="Contribution doodle"/></a>
+
+<sub>cards by <a href="https://doodlebug.tarinagarwal.in">Doodlebug</a> ✎</sub>
+
+</div>
+
+# https://doodlebug.tarinagarwal.in/ #
+
 ## Hi there 👋
 
 <!--

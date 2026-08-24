@@ -1,4 +1,6 @@
-# https://doodlebug.tarinagarwal.in/ #
+
+<!-- https://doodlebug.tarinagarwal.in/
+-->
 <div align="center">
 
 <a href="https://github.com/reworksagency-dev"><img src="https://doodlebug.tarinagarwal.in/api/card/banner?username=reworksagency-dev" alt="ReWorks Agency" width="100%"/></a>
@@ -17,7 +19,8 @@
 
 </div>
 
-# https://doodlebug.tarinagarwal.in/ #
+<!-- https://doodlebug.tarinagarwal.in/
+-->
 
 ## Hi there 👋
 
